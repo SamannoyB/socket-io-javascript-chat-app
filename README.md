@@ -1,10 +1,10 @@
-# socket-io-javascript-chat-app
-Thanks to Socket.IO, we have made our simple chat app. You can view it, use it, and, solve bugs or post updates. 
+# Socket.IO And JavaScript Chat App
+Thanks to [Socket.IO](https://socket.io/), we have made our simple chat app. You can view it, use it, and, solve bugs or post updates. 
 
 ![image](https://user-images.githubusercontent.com/82638503/175021177-7cdd3c01-2abb-4caa-8cd7-db4c5d77d5c4.png)
 
 This project has got dependencies. Make sure you have NPM
-node.js server installed from here -> https://nodejs.org 
+node.js server installed from here -> [NodeJS](https://nodejs.org) 
 
 ## Usage
 

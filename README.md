@@ -6,7 +6,7 @@ Thanks to Socket.IO, we have made our simple chat app. You can view it, use it, 
 This project has got dependencies. Make sure you have NPM
 node.js server installed from here -> https://nodejs.org 
 
-#Usage
+## Usage
 
 Open up a code editor (say VS Code) and clone this 
 project using git or the clone URL.

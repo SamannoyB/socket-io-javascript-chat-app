@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { min-height: 100vh; min-width: 100vw; overflow: hidden; background: #fafafa; font-family: 'Poppins';}
+.messages {align-items: center; justify-content: center; display: flex; flex-direction: column; }
+.your-details { }
+.message-area 
+{
+    height: 15cm;
+    width: 80%;
+    overflow-y: scroll; background: #fff; box-shadow: 0px 2px 3px 4px rgba(0,0,0,0.03);
+    border-radius: 35px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.message-area span {
+    height: auto;
+    max-width: 50%;
+    background-color: dodgerblue;
+    font-size: 23px;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+    margin-left: 20px;
+} .input-area { align-items: center; justify-content: center;  height: 2cm; width: 80%; display:flex; flex-direction: row;}  .input-area input { height: 1.2cm; width: 50%; cursor: no-drop; border-radius: 10px; background-color: #eee; font-size: 17.3px; border: none; outline: none; box-shadow: 0px 2px 3px 4px rgba(0,0,0,0.03);}
+.input-area button { height: 1.2cm; width: 3cm; background-color: #123; color: #fff; font-size: 15.3px;}

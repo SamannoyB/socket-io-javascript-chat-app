@@ -8,7 +8,7 @@ node.js server installed from here -> [NodeJS](https://nodejs.org)
 
 ## Usage
 
-Open up a code editor (say VS Code) and clone this 
+Open up a code editor (say [VS Code](https://vscode.dev)) and clone this 
 project using git or the clone URL.
 
 Install dependencies--
